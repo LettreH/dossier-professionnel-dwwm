@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe mes documents de soutenance pour le **Titre Professionnel Développeur Web et Web Mobile** (RNCP 37674).
 
-Il ne contient pas le code source des projets (voir les liens plus bas). Il rassemble les documents utilisés pour l'évaluation : dossier professionnel, dossier de projet et présentation orale.
+Il ne contient pas le code source des projets (voir les liens plus bas). Il rassemble les documents utilisés pour l'évaluation : dossier professionnel, dossier de projet, présentation orale et livret d'évaluations en cours de formation (ECF).
 
 ## Contenu du dépôt
 
@@ -11,6 +11,7 @@ Il ne contient pas le code source des projets (voir les liens plus bas). Il rass
 ├── Dossier_de_projet_InnovShop_Hermann_MBALA.pdf
 ├── Presentation_InnovShop_Hermann_MBALA.pptx
 ├── Presentation_InnovShop_Hermann_MBALA.pdf
+├── Livret_ECF_DWWM_Hermann_MBALA.pdf
 └── README.md
 ```
 
@@ -20,12 +21,14 @@ Il ne contient pas le code source des projets (voir les liens plus bas). Il rass
 | Dossier de projet | Le projet InnovShop : besoin, conception, front-end, back-end, tests, sécurité, déploiement |
 | Présentation (.pptx) | Les diapositives de la présentation orale |
 | Présentation (.pdf) | La même présentation, en version imprimable |
+| Livret ECF | Les évaluations passées en cours de formation, remplies par l'organisme de formation |
 
 ## Comment lire les documents
 
 1. Commencer par le **Dossier professionnel** : il montre ma pratique sur plusieurs projets de la formation.
 2. Continuer avec le **Dossier de projet** : il détaille un projet complet, de l'analyse du besoin jusqu'à la mise en ligne.
 3. La **Présentation** reprend les points clés du dossier de projet pour l'oral.
+4. Le **Livret ECF** présente les évaluations réalisées pendant la formation et leur synthèse.
 
 ## Projets associés (code)
 
