@@ -33,6 +33,7 @@ Il ne contient pas le code source des projets (voir les liens plus bas). Il rass
 | --- | --- | --- | --- |
 | **InnovShop** (projet principal) | Symfony 7.4, PHP 8.2, Doctrine, Twig, Bootstrap 5 | [LettreH/innovshop](https://github.com/LettreH/innovshop) | [hermann.alwaysdata.net/innovshop](https://hermann.alwaysdata.net/innovshop/) |
 | **Cabinet dentaire** | PHP orienté objet, PDO, MariaDB, HTML/CSS | [LettreH/cabinet-dentaire](https://github.com/LettreH/cabinet-dentaire) | [hermann.alwaysdata.net](https://hermann.alwaysdata.net) |
+| **EM SERVICES** | JavaScript, API REST, Jest | [LettreH/Projet-JS](https://github.com/LettreH/Projet-JS) | [lettreh.github.io/Projet-JS](https://lettreh.github.io/Projet-JS/) |
 
 ## Compétences du titre
 
